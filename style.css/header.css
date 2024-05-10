@@ -11,6 +11,9 @@ div {
     padding-inline: 32px;
     margin-inline: auto;
   }
+  main {
+    margin-top: 40px;
+  }
 /* nesting css */
   div:nth-child(2) {
     margin-inline: auto;
